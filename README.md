@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IrinaDowney
 - 👀 I’m interested in Software QA Engineer
-- 🌱 I’m currently learning QA Automation
 - 💞️ I’m looking to collaborate with QA team
 
 
